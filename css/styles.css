@@ -1,0 +1,156 @@
+
+body{
+  background-color:#4C9B9B ;
+}
+
+nav{
+  background:  #4C9B9B;
+  height: 80px;
+  width:100%;
+  margin-bottom: 50px;
+}
+label.main{
+  color: white;
+  font-size: 50px;
+  line-height: 80px;
+  /* padding: 0 100px; */
+  font-weight: bold;
+}
+nav ul{
+  float:right;
+  margin-right: 20px;
+}
+nav ul li{
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 4px ;
+
+}
+nav ul li a{
+  color: white;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+a:hover{
+  color:blue;
+}
+ul{
+margin-top: 0px;
+}
+.a{
+font-family:sans-serif;
+}
+#so{
+  margin-left: 170px;
+}
+
+h1{
+  font-size: 90px;
+  text-align: center;
+}
+h3{
+  margin-left: 10px;
+}
+.first{
+margin-left: 30px;
+}
+.a{
+  text-align: justify;
+  font-size: 30px;
+
+}
+.sec{
+margin-left: 150px;
+}
+.th{
+  margin-left: 50px;
+  width: 200px;
+}
+.fo{
+  margin-left: 50px;
+}
+
+.rr{
+  text-align:left;
+}
+.mos{
+  width: 90px;
+ float: left;
+  margin-right: 30px;
+
+ text-align:center;
+
+}
+.ta{
+  text-align: justify;
+  margin-left: 80px;
+
+
+}
+.des{
+ text-align: justify;
+}
+.ste{
+  text-align:center;
+}
+.ab{
+  /* margin-left: 350px;
+  margin-right: 300px; */
+  font-weight: lighter;
+  text-align: justify;
+}
+.wri{
+  text-align: justify;
+  /* margin-left:  180px ;
+  margin-right: 190px;
+  margin-bottom: 70px; */
+}
+.de{
+  text-align: center;
+}
+.loc{
+text-align: center;
+}
+.ig{
+  width: 50px;
+}
+.container{
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color:  #4C9B9B;
+margin-left: 20px;
+}
+.card{
+  background-color: white;
+  width: 280px;
+  height: 400px;
+margin: 40px;
+border-radius: 15px;
+background-color:#4C9B9B;
+
+}
+
+.card-image{
+
+  height: 170px;
+  margin-bottom: 15px;
+  background-size: cover;
+  padding-left: 90px;
+  border-radius: 15px 15px 0 0;
+margin-left: 20px;
+}
+.card-a{
+  background-image: url("../igs/ii.png");
+
+}
+.card-b{
+  background-image: url("../igs/im.png");
+
+}
+.card-c{
+  background-image: url("../igs/j.png");
+}
+.card-d{
+  background-image: url("../igs/wood.jpg");
+}
